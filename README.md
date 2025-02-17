@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Mohamed Mostafa Ali
 
+<div align="center">
+  <img src="assets/GithubProfileImage.png" alt="Mohamed Mostafa Ali" width="285" />
+</div>
+
 ### 🎓 Cybersecurity Enthusiast & Computer Science Student
 
 I'm an undergraduate student pursuing a **Bachelor of Computer Science** with a major in **Cybersecurity** at the **Arab Academy for Science, Technology & Maritime Transport**. With a GPA of **3.54/4.0 (Excellent)**, I'm passionate about securing systems, analyzing threats, and building tools to enhance cybersecurity.
