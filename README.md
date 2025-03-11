@@ -24,7 +24,7 @@ I'm an undergraduate student pursuing a **Bachelor of Computer Science** with a 
 ### 🚀 Projects
 
 Check out my repositories to see my projects! From **malware analysis** to **cloud-based red teaming labs**, I've worked on a variety of cybersecurity and system monitoring tools.  
-👉 [GitHub Repos](https://github.com/MohamedMostafa010)
+👉 [GitHub Repos](https://github.com/MohamedMostafa010?tab=repositories)
 
 ---
 
