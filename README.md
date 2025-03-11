@@ -44,6 +44,8 @@ Here are some of the courses and certifications I've completed:
 - **Junior Penetration Tester (eJPTv1)**
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - **TryHackMe Learning Paths**: Complete Beginner, Introduction to Cyber Security, Pre Security
+- **Microsoft Certified: Azure Fundamentals AZ-900**
+- **Certified Incident Responder (eCIR)**
 
 ---
 
