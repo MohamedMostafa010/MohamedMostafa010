@@ -52,7 +52,7 @@
 ### 🏆 Achievements
 
 - **AMIT SOC Diploma Final Project**: Scored 100% in the final project.
-- **TryHackMe Ranking**: Ranked in the **top 5% worldwide** on TryHackMe.
+- **TryHackMe Ranking**: Ranked in the **top 2% worldwide** on TryHackMe.
 - **Certifications**: CCNA, CompTIA Security+, (ISC)² CC, eJPT, and more.
 
 ---
