@@ -67,6 +67,7 @@
 
 - **GitHub**: [MohamedMostafa010](https://github.com/MohamedMostafa010)
 - **LinkedIn**: [Mohamed Mostafa Ali](https://www.linkedin.com/in/mohamedmostafaali)
+- **Personal Website**: [Mohamed Mostafa Ali | Personal Website](https://mohamedmostafa010.github.io/)
 - **Email**: mohamedmostafa10110@gmail.com
 
 ---
