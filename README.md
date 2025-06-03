@@ -23,29 +23,29 @@
 
 ### 🚀 Projects
 
-Check out my repositories to see my projects! From **malware analysis** to **cloud-based red teaming labs**, I've worked on a variety of cybersecurity and system monitoring tools.  
+- Check out my repositories to see my projects! From **malware analysis** to **cloud-based red teaming labs**, I've worked on a variety of cybersecurity and system monitoring tools.  
 👉 [GitHub Repos](https://github.com/MohamedMostafa010?tab=repositories)
 
 ---
 
 ### 📚 Courses, Certifications, and Diplomas
 
-Here are some of the courses and certifications I've completed:
+- Here are some of the courses and certifications I've completed:
 
-- **AMIT Learning SOC Diploma**
-- **CCNA 200-301**
-- **CCNA Network Security**
-- **Cisco CyberOps**
-- **MCSA (Active Directory Part)**
-- **Red Hat System Administration Level 1**
-- **CompTIA Linux+ XK0-005**
-- **(ISC)² Certified in Cybersecurity (CC)**
-- **CompTIA Security+ SY0-601**
-- **Junior Penetration Tester (eJPTv1)**
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **TryHackMe Learning Paths**: Complete Beginner, Introduction to Cyber Security, Pre Security, and Cyber Security 101
-- **Microsoft Certified: Azure Fundamentals AZ-900**
-- **Certified Incident Responder (eCIR)**
+  - **AMIT Learning SOC Diploma**
+  - **CCNA 200-301**
+  - **CCNA Network Security**
+  - **Cisco CyberOps**
+  - **MCSA (Active Directory Part)**
+  - **Red Hat System Administration Level 1**
+  - **CompTIA Linux+ XK0-005**
+  - **(ISC)² Certified in Cybersecurity (CC)**
+  - **CompTIA Security+ SY0-601**
+  - **Junior Penetration Tester (eJPTv1)**
+  - **Microsoft Certified: Azure Fundamentals (AZ-900)**
+  - **TryHackMe Learning Paths**: Complete Beginner, Introduction to Cyber Security, Pre Security, and Cyber Security 101
+  - **Microsoft Certified: Azure Fundamentals AZ-900**
+  - **Certified Incident Responder (eCIR)**
 
 ---
 
