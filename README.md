@@ -28,7 +28,7 @@ Check out my repositories to see my projects! From **malware analysis** to **clo
 
 ---
 
-### 📚 Courses & Certifications
+### 📚 Courses, Certifications, and Diplomas
 
 Here are some of the courses and certifications I've completed:
 
