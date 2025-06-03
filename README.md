@@ -6,7 +6,7 @@
 
 ### 🎓 Cybersecurity Enthusiast & Computer Science Student
 
-I'm an undergraduate student pursuing a **Bachelor of Computer Science** with a major in **Cybersecurity** at the **Arab Academy for Science, Technology & Maritime Transport**. With a GPA of **3.54/4.0 (Excellent)**, I'm passionate about securing systems, analyzing threats, and building tools to enhance cybersecurity.
+- I'm an undergraduate student pursuing a **Bachelor of Computer Science** with a major in **Cybersecurity** at the **Arab Academy for Science, Technology & Maritime Transport**. With a GPA of **3.54/4.0 (Excellent)**, I'm passionate about securing systems, analyzing threats, and building tools to enhance cybersecurity.
 
 ---
 
@@ -43,7 +43,7 @@ Here are some of the courses and certifications I've completed:
 - **CompTIA Security+ SY0-601**
 - **Junior Penetration Tester (eJPTv1)**
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **TryHackMe Learning Paths**: Complete Beginner, Introduction to Cyber Security, Pre Security
+- **TryHackMe Learning Paths**: Complete Beginner, Introduction to Cyber Security, Pre Security, and Cyber Security 101
 - **Microsoft Certified: Azure Fundamentals AZ-900**
 - **Certified Incident Responder (eCIR)**
 
@@ -59,18 +59,18 @@ Here are some of the courses and certifications I've completed:
 
 ### 🌱 Learning & Growth
 
-I'm a proactive learner, always exploring new technologies and methodologies. I enjoy reading books like **"Bash Idioms"** to deepen my scripting skills and staying up-to-date with the latest cybersecurity trends.
+- I'm a proactive learner, always exploring new technologies and methodologies. I enjoy reading books like **"Bash Idioms"** to deepen my scripting skills and staying up-to-date with the latest cybersecurity trends.
 
 ---
 
 ### 🌐 Connect with Me
 
 - **GitHub**: [MohamedMostafa010](https://github.com/MohamedMostafa010)
-- **LinkedIn**: [Mohamed Mostafa Ali](https://www.linkedin.com/in/mohamedmostafail)
+- **LinkedIn**: [Mohamed Mostafa Ali](https://www.linkedin.com/in/mohamedmostafaali)
 - **Email**: mohamedmostafa10110@gmail.com
 
 ---
 
 ### 💬 Let's Collaborate!
 
-I'm always open to new opportunities, collaborations, or discussions about cybersecurity, scripting, or cloud technologies. Feel free to reach out! 😊
+- I'm always open to new opportunities, collaborations, or discussions about cybersecurity, scripting, or cloud technologies. Feel free to reach out! 😊
