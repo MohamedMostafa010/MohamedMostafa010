@@ -4,7 +4,7 @@
   <img src="assets/GithubProfileImage.png" alt="Mohamed Mostafa Ali" width="285" />
 </div>
 
- <h3 align="center"><strong>🎓 Cybersecurity Enthusiast & Computer Science Student</strong></h3>
+<h3 align="center"><strong>🎓 Cybersecurity Enthusiast & Computer Science Student</strong></h3>
 
 - I'm an undergraduate student pursuing a **Bachelor of Computer Science** with a major in **Cybersecurity** at the **Arab Academy for Science, Technology & Maritime Transport**. With a GPA of **3.54/4.0 (Excellent)**, I'm passionate about securing systems, analyzing threats, and building tools to enhance cybersecurity.
 
@@ -44,7 +44,6 @@
   - **Junior Penetration Tester (eJPTv1)**
   - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **TryHackMe Learning Paths**: Complete Beginner, Introduction to Cyber Security, Pre Security, and Cyber Security 101
-  - **Microsoft Certified: Azure Fundamentals AZ-900**
   - **Certified Incident Responder (eCIR)**
 
 ---
@@ -65,13 +64,43 @@
 
 ### 🌐 Connect with Me
 
-- **GitHub**: [MohamedMostafa010](https://github.com/MohamedMostafa010)
-- **LinkedIn**: [Mohamed Mostafa Ali](https://www.linkedin.com/in/mohamedmostafaali)
-- **Personal Website**: [Mohamed Mostafa Ali | Personal Website](https://mohamedmostafa010.github.io/)
-- **Email**: mohamedmostafa10110@gmail.com
+<br>
+
+<div align="center">
+
+<a href="https://github.com/MohamedMostafa010">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="42" />
+</a>
+<a href="https://www.linkedin.com/in/mohamedmostafaali">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42" />
+</a>
+<a href="https://mohamedmostafa010.github.io/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="42" />
+</a>
+<a href="mailto:mohamedmostafa10110@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42" />
+</a>
+
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://tryhackme.com/p/mohamedmostafa11">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mohamedmostafa11.png" alt="TryHackMe Badge" height="80" />
+  </a>
+</div>
 
 ---
 
 ### 💬 Let's Collaborate!
 
 - I'm always open to new opportunities, collaborations, or discussions about cybersecurity, scripting, or cloud technologies. Feel free to reach out! 😊
+
+---
+
+### 📄 License
+
+- Feel free to use this README template for your own profile!  
+- You can copy, modify, and use it however you'd like.
+---
+
