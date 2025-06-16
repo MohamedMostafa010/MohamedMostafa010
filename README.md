@@ -62,7 +62,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me — *Click the badges to explore and interact with my work*
 
 <br>
 
