@@ -98,7 +98,7 @@
 
 ---
 
-### 📄 License
+### 📄 License & Reuse
 
 - Feel free to use this README template for your own profile!  
 - You can copy, modify, and use it however you'd like.
