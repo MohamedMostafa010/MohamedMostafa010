@@ -89,6 +89,13 @@
 
 ---
 
+### 🧠 Philosophy & Mindset
+
+<div align="center" style="background: rgba(245,245,245,0.6); padding: 20px; border-radius: 24px; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.05);"> 
+  <img src="assets/Elliot_Alderson_Quote.png" alt="Elliot Alderson Cybersecurity Cartoon" width="300" style="border-radius: 20px; margin-bottom: 12px;" /> 
+  <p style="font-style: italic; margin: 0;">"Perfect security is a myth; constant vigilance is not."</p> 
+</div>
+
 ### 💬 Let's Collaborate!
 
 - I'm always open to new opportunities, collaborations, or discussions about cybersecurity, scripting, or cloud technologies. Feel free to reach out! 😊
