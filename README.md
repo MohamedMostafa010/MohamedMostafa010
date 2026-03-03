@@ -94,7 +94,7 @@
 I write about cybersecurity concepts, walkthroughs, and my learning journey on Medium. Check out my latest posts:
 
 <div align="center">
-  <img src="assets/Medium.gif" alt="Medium Blog Posts" width="350" />
+  <img src="assets/Medium.gif" alt="Medium Blog Posts" width="270" />
 </div>
 
 - [**Buffer Overflow Attack Lab: A Hands-On Journey Through Software Security**](https://medium.com/@mohamedmostafa10110/buffer-overflow-attack-lab-a-hands-on-journey-through-software-security-1403d055267c) - Comprehensive walkthrough of buffer overflow exploits, reverse shells, and bypassing ASLR & StackGuard mitigations.
