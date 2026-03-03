@@ -6,7 +6,7 @@
 
 <h3 align="center"><strong>🎓 Cybersecurity Enthusiast & Computer Science Student</strong></h3>
 
-- I'm an undergraduate student pursuing a **Bachelor of Computer Science** with a major in **Cybersecurity** at the **Arab Academy for Science, Technology & Maritime Transport**. With a GPA of **3.56/4.0 (Excellent)**, I'm passionate about securing systems, analyzing threats, and building tools to enhance cybersecurity.
+- I'm an undergraduate student pursuing a **Bachelor of Computer Science** with a major in **Cybersecurity** at the **Arab Academy for Science, Technology & Maritime Transport**. With a GPA of **3.61/4.0 (Excellent)**, I'm passionate about securing systems, analyzing threats, and building tools to enhance cybersecurity.
 
 ---
 
@@ -89,7 +89,7 @@
 
 ---
 
-### ✍️ Latest from My Blog
+### ✍️ Latest from My Blogs
 
 I write about cybersecurity concepts, walkthroughs, and my learning journey on Medium. Check out my latest posts:
 
