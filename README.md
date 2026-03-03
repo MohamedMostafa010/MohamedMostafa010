@@ -89,6 +89,19 @@
 
 ---
 
+### ✍️ Latest from My Blog
+
+I write about cybersecurity concepts, walkthroughs, and my learning journey on Medium. Check out my latest posts:
+
+
+- [**Buffer Overflow Attack Lab: A Hands-On Journey Through Software Security**](https://medium.com/@mohamedmostafa10110/buffer-overflow-attack-lab-a-hands-on-journey-through-software-security-1403d055267c) - Comprehensive walkthrough of buffer overflow exploits, reverse shells, and bypassing ASLR & StackGuard mitigations.
+
+- [**Hands-On Memory Forensics: A DFIR Investigation of a Compromised Windows XP Machine**](https://medium.com/@mohamedmostafa10110/hands-on-memory-forensics-a-dfir-investigation-of-a-compromised-windows-xp-machine-ed8a6ea7993c) - Using Volatility2 to identify malicious processes, injected DLLs, C2 communications, and phishing URLs targeting financial institutions.
+
+- [**Malware Analysis and Reverse Engineering Report: A Hands-On Journey Through Macro Malware Dissection**](https://medium.com/@mohamedmostafa10110/malware-analysis-and-reverse-engineering-report-a-hands-on-journey-through-macro-malware-eb95fde9f8de) - Comprehensive dissection of macro-based malware: from static analysis to dynamic execution and threat intelligence validation.
+
+👉 **[Read all my articles on Medium](https://medium.com/@mohamedmostafa10110)**
+
 ### 🧠 Philosophy & Mindset
 
 <div align="center"> 
